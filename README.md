@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadthedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="fahadthedeveloper" /> </p>
 
 
-- 🔭 I’m currently working on [AI REPHRASE WEBSITE](silly-snickerdoodle-25dfee.netlify.app)
+- My AI website www.aitohumanzone.com
 
 - 🌱 I’m currently learning **React , Native**
 
